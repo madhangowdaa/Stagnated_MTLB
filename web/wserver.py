@@ -220,7 +220,7 @@ function s_validate() {
 </script>
 </head>
 <body>
-  <!--© Designed and coded by @bipuldey19-Telegram-->
+  <!--© Designed and coded by @bNiKlaus-Telegram-->
     <header>
       <div class="brand">
         <img
@@ -231,9 +231,8 @@ function s_validate() {
           <h2 class="name">Qbittorrent Selection</h2>
         </a>
       </div>
-      <div class="social">
-        <a href="https://github.com/weebzone/WZML"><i class="fab fa-github"></i></a>
-        <a href="https://t.me/krn2701"><i class="fab fa-telegram"></i></a>
+      <div class="Telegram">
+        <a href="https://t.me/Sai_Moviezz"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
     <div id="sticks">
@@ -612,7 +611,7 @@ section span{
     </style>
   </head>
 <body>
-   <!--© Designed and coded by @bipuldey19-Telegram-->
+   <!--© Designed and coded by @NiKlaus_02-Telegram-->
     <header>
       <div class="brand">
         <img
@@ -624,8 +623,7 @@ section span{
         </a>
       </div>
       <div class="social">
-        <a href="https://github.com/weebzone/WZML"><i class="fab fa-github"></i></a>
-        <a href="https://t.me/krn2701"><i class="fab fa-telegram"></i></a>
+        <a href="https://t.me/Sai_Moviezz"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
     <section>
@@ -772,7 +770,7 @@ def set_priority(id_):
 
 @app.route('/')
 def homepage():
-    return "<h1>See mirror-with-weeb <a href='https://github.com/weebzone/WZML'>@GitHub</a> By <a href='https://github.com/weebzone'>Code With Weeb</a></h1>"
+    return "<h1>See mirror-with-weeb <a href='https://github.com/L'>@GitHub</a> By <a href='https://github.com/'>Code</a></h1>"
 
 @app.errorhandler(Exception)
 def page_not_found(e):
