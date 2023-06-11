@@ -220,7 +220,7 @@ function s_validate() {
 </script>
 </head>
 <body>
-  <!--© Designed and coded by @bNiKlaus-Telegram-->
+  <!--© Designed and coded by @bNiKlaus_02-Telegram-->
     <header>
       <div class="brand">
         <img
