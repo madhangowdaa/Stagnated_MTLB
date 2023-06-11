@@ -220,11 +220,11 @@ function s_validate() {
 </script>
 </head>
 <body>
-  <!--© Designed and coded by @bNiKlaus_02-Telegram-->
+  <!--© Designed and coded by @MoviezAddaKan-Telegram-->
     <header>
       <div class="brand">
         <img
-          src="https://graph.org/file/1a6ad157f55bc42b548df.png"
+          src="https://graph.org/file/496ec32d34750348448c9.jpg"
           alt="logo"
         />
         <a href="https://t.me/krn2701">
@@ -232,7 +232,7 @@ function s_validate() {
         </a>
       </div>
       <div class="Telegram">
-        <a href="https://t.me/Sai_Moviezz"><i class="fab fa-telegram"></i></a>
+        <a href="https://t.me/MoviezAddaKan"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
     <div id="sticks">
